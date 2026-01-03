@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "猛獣",
+  "base_artist": "john",
+  "createdAt": "2026-01-03T14:19:42.598748Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "猛獣",
+      "artist": "John",
+      "has_synced": false,
+      "path": "select/pl_01_猛獣_John.txt"
+    }
+  ]
+}
